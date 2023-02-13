@@ -1,0 +1,15 @@
+{
+    "status": "successfull",
+    "employee": {
+      "e_id": 97,
+      "e_name": "Bhingradiya Milan Kishorbhai",
+      "e_pwd": "$2b$10$LUeVN8AIvhXfYnlxctDjjO20AZlmlcqeCtUFm.IeC3SX10qc3GDDa",
+      "e_pos": "ASSISTANT MANAGER",
+      "e_dept": "BCA",
+      "e_dob": "2005-04-20T18:30:00.000Z",
+      "e_contact": "+919016064322",
+      "e_address": "52, Sardar Patel Soc. Dabholi Road, Surat",
+      "e_blood": "A-",
+      "e_status":"pending"
+  }
+  }

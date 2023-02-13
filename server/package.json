@@ -1,0 +1,20 @@
+{
+  "name": "id_card_generator",
+  "version": "1.0.0",
+  "description": "Backend used to create ID Card of Students and Staff",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index"
+  },
+  "author": "sanket",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}

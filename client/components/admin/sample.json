@@ -1,0 +1,15 @@
+{
+    "status": "successfull",
+    "students": {
+      "s_enroll": "E19110339000110107",
+      "s_spid": 2019065976,
+      "s_name": "Sadadiya Sanket Ambaram",
+      "s_pwd": "$2b$10$JncmlvdaCagrzvCTmvTvdu57QD18cbaZf2lRqZDwQzjOn4bmpizj6",
+      "s_stream": "SYBCA",
+      "s_dob": "2005-04-15T18:30:00.000Z",
+      "s_contact": "+917383409520",
+      "s_address": "53, Sardar Patel Soc. Dabholi Road, Surat",
+      "s_blood": "O-",
+      "s_status":"pending"
+  }
+  }
